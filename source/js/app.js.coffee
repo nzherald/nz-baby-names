@@ -1,7 +1,5 @@
 #= require gridmap
 
-top.location.replace(self.location.href) if (top != self)
-
 window.App =
   years: [1999..2014]
   data: {}
