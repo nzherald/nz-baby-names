@@ -1,5 +1,5 @@
 //= require jquery/jquery
-//= require Rubberband/jquery.bp.rubberband
+//= require Rubberband/jquery.fs.rubberband
 //= require bootstrap/tooltip
 //= require bootstrap/popover
 //= require underscore/underscore
